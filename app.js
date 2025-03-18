@@ -49,3 +49,4 @@ function sortearAmigo() {
     const resultado = document.getElementById('resultado');
     resultado.innerHTML = `Tu amigo secreto es: ${amigoSorteado}`;
 }
+ 
